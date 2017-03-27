@@ -1,0 +1,127 @@
+﻿
+ 
+body {
+     
+
+}
+div.page-header{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 3px;
+   background-color: lightgray;
+}
+div.navbar navbar-default navbar-static-top{
+   margin-bottom:0px;
+}
+ .mainPic{
+    
+   background-image:url('../ProjectImages/tuscany-villas-sant-anna.jpg');
+   background-size:cover;
+   background-position:center;
+   height:350px;
+   width:auto;
+   border-top:0px;
+   padding-left: 0px;
+   padding-right:0px;
+}
+ 
+ .sidePic{
+     background-image:url('../ProjectImages/Versilia.jpg');
+     background-size:cover;
+     background-position:center;
+     height:350px;
+     width:auto;
+     border-top:0px;
+     padding-left: 0px;
+     padding-right:0px;
+ }
+ .design{
+     font-family:'Pacifico',cursive
+ }
+ 
+  .whitebox{
+      background-color:whitesmoke;
+      background-size:cover;
+      height:348px;
+      width:auto;
+  }
+  .bluebox{
+      background-color:deepskyblue;
+      background-size: cover;
+      height:348px;
+      width:auto;
+  }
+
+.Pic1 {
+     background-image: url('../ProjectImages/3b-348x348.jpg');
+     background-size:cover;
+     height:348px;
+     width:auto;
+}
+
+.Pic2 {
+    background-image: url('../ProjectImages/42-348x348.jpg');
+    background-size:cover;
+    height:348px;
+    width:auto;
+}
+.Pic3 {
+    background-image: url('../ProjectImages/Villa-Rucellai-Toscani-2812-2-348x348.jpg');
+    background-size:cover;
+    height:348px;
+    width:auto;
+}
+.Pic4 {
+    background-image: url('../ProjectImages/Villa-Vanna-231-348x348.jpg');
+    background-size: cover;
+    height:348px;
+    width:auto;
+}
+.Pic5 {
+    background-image: url('../ProjectImages/Villa-Rucellai-Toscani-2750-2-348x348.jpg');
+    background-size:cover;
+    height:348px;
+    width:auto;
+}
+.Pic6 {
+    background-image: url('../ProjectImages/314-348x348.jpg');
+    background-size:cover;
+    height:348px;
+    width:auto;
+}
+.Pic7 {
+    background-image: url('../ProjectImages/box_partners.png');
+    background-size:cover;
+    height: 348px;
+    width:auto;
+}
+  /*text types*/
+  .textbox{
+      display:block;
+      position:center;
+      margin: auto;
+      padding: 10px;
+      text-align:center;
+     background-color:lightgray;
+     border:1px solid black;
+     opacity:0.6;
+      
+  }
+  .textbox2{
+      position:center;
+      background-color:whitesmoke;
+      border:1px solid white;
+      opacity:0.6;
+  }
+  
+   /*Gutter killer*/
+    .no-gutter > [class*='col-']{
+        padding-right:0;
+        padding-left:0;
+        padding-top:0;
+        padding-bottom:0;
+    }
+    /*Footer*/
+    {
+        padding-top:10px;
+    }
